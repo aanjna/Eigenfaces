@@ -1,4 +1,4 @@
 Eigenfaces
 ==========
 
-Eigenfaces implementation based on 
+Eigenfaces algorithm implementation based on: M. Turk, A. Pentland "Eigenfaces for Recognition" Journal of Cognitive Neurosience Vol.3, Number 1 - 1991 MIT
