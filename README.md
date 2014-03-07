@@ -1,4 +1,4 @@
 Eigenfaces
 ==========
 
-Eigenfaces implementation in java
+Eigenfaces implementation based on 
